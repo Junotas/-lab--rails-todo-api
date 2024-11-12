@@ -73,6 +73,5 @@ The API will be available at [http://localhost:3000](http://localhost:3000).
 ## Additional Notes
 
 - This is an API-only Rails app, meaning it does not have a frontend.
-- Tests have not been added yet.
 
 ---
